@@ -1,13 +1,12 @@
 terraform {
-
-  cloud {
-    organization = "organization-name"
+ /* cloud {
+    organization = "magnus-amudi"
 
     workspaces {
-      name = "learn-terraform-cloud"
+      name = "magnus-terraform"
     }
   }
-
+*/
   required_providers {
     aws = {
       source  = "hashicorp/aws"
