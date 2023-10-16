@@ -18,3 +18,5 @@ variable "instance_count" {
   type        = number
   default     = 2
 }
+
+//this is fine. just commenting.
